@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #333E50;
+    font-weight: 300;
+}
+
+.titulos {
+    font-family: "Montserrat", "Open Sans", "Arial", sans-serif;
+}
+
+.letraContenido {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'RobotoCondensedRegular';
+    font-size: 16px;
+}
+
+.primaryFont {
+    color: white;
+}
+
+.navbar {
+    position: initial !important;
+    color: white;
+}
+
+.izquierda {
+    align-items: right !important;
+}
+
+.header {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    background-image: url("../img/bg-hero.jpg");
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.btnPrimary {
+    border-radius: 50px !important;
+    border-color: #72b529 !important;
+    background-color: #72b529 !important;
+}
+
+.btnSecundary {
+    border-radius: 25px !important;
+    border-color: white !important;
+    background-color: transparent !important;
+}
+
+.header-sticky {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    background: rgba(0, 0, 0, 0.5);
+    /* display: flex; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1 {
+    background-color: #323232;
+}
+
+.card2 {
+    background-color: #7dc855;
+}
+
+.card3 {
+    background-color: #72b529;
+}
+
+.dimensionCard {
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+.img-result {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.contenido {
+    text-align: justify;
+    padding-top: 75px;
+    padding-left: 75px;
+}
+
+.letraBotones {
+    padding: 15px 30px;
+    font: 15px "Montserrat", "Open Sans", "Arial", sans-serif;
+}
+
+.letra2 {
+    color: #222222 !important;
+}
+
+.tatse {
+    color: #72b529;
+    font-size: 28px;
+    float: left;
+    margin-right: 30px;
+}
+
+h1 {
+    font: 700 50px "Montserrat", "Open Sans", "Arial", sans-serif;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-transform: none;
+}
+
+h3 {
+    font: 700 35px "Montserrat", "Open Sans", "Arial", sans-serif;
+    color: #222222;
+    line-height: 52px;
+    letter-spacing: -1px;
+    text-transform: none;
+}
+
+h6 {
+    font: 400 13px "Montserrat", "Open Sans", "Arial", sans-serif;
+    color: #222222;
+    line-height: 32px;
+    letter-spacing: ;
+    text-transform: none;
+}
+
+p {
+    font: 16px Roboto, "Open Sans", Aril, sans-serif;
+    line-height: 30px;
+    color: #898989;
+}
+
+.logoback {
+    margin-top: 50px;
+    background: #f3f3f3;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.logobanner {
+    width: 180px;
+    margin-right: 0px;
+}
+
+.separacion {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.banner2 {
+    background-image: url('../img/bg-testi.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 651px;
+}
+
+.separation {
+    margin-top: 200px;
+}
+
+.taste2 {
+    font-size: 50px;
+    color: #72b529;
+}
+
+.subtitle {
+    color: #ffffff;
+    font-size: 23px;
+    line-height: 1.8
+}
+
+.banner3 {
+    background-color: #72b529;
+}
+
+.bannerButton {
+    border-width: 2px !important;
+    border-color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+h5 {
+    color: #f3f3f3;
+    font: 400 20px "Montserrat", "Open Sans", "Arial", sans-serif;
+}
+
+.banner4 {
+    color: #a2a2a2;
+    font: 14px Roboto, "Open Sans", Arial, sans-serif;
+    background: #3d3f3e;
+    padding: 70px 0px;
+}
+
+footer {
+    background-color: #3d3f3e;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.textwidget {
+    font: 400 14px "Roboto", "Open Sans", "Arial", sans-serif;
+    color: #a2a2a2;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+
+h6 {
+    font: 400 12px "Montserrat", "Open Sans", "Arial", sans-serif;
+    color: #dfdfdf;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.redesSociales {
+    display: inline-block;
+}
+
+.tamano {
+    width: 100% !important;
+}
+
+.fondoRedes {
+    background-color: #464646;
+}
+
+.taste3 {
+    font-size: 30px;
+    margin-right: 10px;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.redesSociales a {
+    padding: 6px;
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #f1f1f1;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    transition: 0.4s all;
+    line-height: 58px;
+    cursor: pointer;
+    background: #464646;
+    border-radius: 50%;
+}
+
+.tatsu-icon.circle {
+    border-radius: 50%;
+}
+
+.tatse4 {
+    font-size: 15px;
+    float: left;
+}
